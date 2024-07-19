@@ -18,7 +18,7 @@ Open up Visual Studio Code and create a new file
 
 ## Step #4
 
-Open up your terminal and clone this repository by typing in the terminal `git clone https://github.com/tkrpe/free-discordjs-bot`
+Open up your terminal and clone this repository by typing in the terminal `git clone https://github.com/tkrpe/free-discordjs-bot.git`
 
 ## Step #5
 
