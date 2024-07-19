@@ -14,7 +14,7 @@ Download and install Visual Studio Code or any code editor
 
 ## Step #3
 
-Open up Visual Studio Code and create a new file
+Open up Visual Studio Code and create a new folder
 
 ## Step #4
 
