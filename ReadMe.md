@@ -28,7 +28,7 @@ Type in the terminal `cd free-discordjs-bot`
 
 Type in the following into the terminal:
 `npm init -y`
-`npm install discord.js`
+`npm install discord.js chalk@4.1.2`
 
 ## Step #7
 
